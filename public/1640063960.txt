@@ -1,0 +1,6 @@
+Client error: `GET http://localhost:8001//game/serverstatus` resulted in a `404 Not Found` response:
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width= (truncated...)

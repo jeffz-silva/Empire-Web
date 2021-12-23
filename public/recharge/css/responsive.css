@@ -1,0 +1,106 @@
+@media screen and (max-width: 1200px){
+
+	body {
+		background-attachment: fixed;
+	}
+
+	.container {
+		width: 100%;
+		padding: 0 4%;
+	}
+
+	header a {
+		font-size: 0;
+	}
+	header i.icon-back {
+		margin: 0;
+	}
+	header .right {
+		float: left;
+	}
+	header .logo {
+		right: 8%;
+		left: initial;
+		-webkit-transform: none;
+		-moz-transform: none;
+		-ms-transform: none;
+		-o-transform: none;
+		transform: none;
+	}
+
+	/* ASIDE */
+	aside {
+		width: 100%;
+		margin: 0 0 10px 0;
+	}
+	aside img {
+		max-width: 50%;
+	}
+	aside p {
+		font-size: 13px;
+		text-align: justify;
+	}
+
+	main .box.pay .content {
+		width: 100%;
+		padding: 10px 0 0 0;
+		font-size: 14px;
+	}
+	main .account {
+		width: 100%;
+		font-size: 14px;
+		margin: 8px 0 12px 0;
+	}
+	main .account div {
+		margin: 2px 0;
+	}
+	main .account img {
+		display: none;
+	}
+	main .box.pay .content .title {
+		font-size: 13px;
+		text-align: center;
+	}
+	main .selects {
+		margin: 0 0 12px 0;
+	}
+	main .selects select {
+		width: 100%;
+		margin: 0 0 8px 0;
+		font-size: 13px;
+		height: 44px;
+	}
+
+	main .tags {
+		vertical-align: top;
+	}
+	main .tags a {
+		width: 48%;
+		min-width: 48%;
+		margin: 0 1% 2% 1%;
+		vertical-align: top;
+		float: left;
+	}
+	main .tags a img {
+		max-width: 100%;
+	}
+
+	main .button {
+		text-align: center;
+	}
+	main .button button {
+		width: 98%;
+	}
+
+	/* FOOTER */
+	footer {
+		margin: -10px 0 -50px 0;
+	}
+	footer .text {
+		margin: 0 0 26px 0;;
+		font-size: 12px;
+		padding: 0;
+		color: #fff;
+	}
+
+}
